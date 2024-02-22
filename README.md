@@ -1,5 +1,5 @@
 
-<h1>Hey! I'm Shamna👋</h1>
+<h1>Hey! I'm Shamna</h1>
 
 <h3>Connect me via:</h3>
 <p>
